@@ -1,0 +1,46 @@
+1. enviroment setting (diff in vite and react and how to consolelog them)
+    endpoint url == appwrite url
+
+2. creating databases, collections in appwrite
+
+3. creating conf/conf.js to avoid crashing
+
+4. reading docs from appwrite
+    creating appwrite/auth.js with code improvement
+    --doc mein likha hai ke create ke saath pehle projectid jayegi to
+    humne appwrite ka unique id use kiya--
+
+5. creating appwrite/config.js
+    slug ko as a id rakha hai
+    slug ko update mein pehle rakha ke pehle doc id lelo 
+    userid ki need nhi thi update mein
+
+    delete mein sirf doc id se bhi kaam hojayega
+    
+    return true mein delete hogaya
+
+    queries take jab saare post len to non active wali na ayen
+
+6.  store with redux toolkit
+    auth jahan chaho banalo 
+    ek improve karsakte hain auth ka slice banaya hai hum post ka bhi karsakte hain allpost userpost karke
+
+
+7.  created components and providers
+
+8.  pages,container in components
+
+9.  footer header
+
+10. button input (forwardRef)
+
+
+
+
+
+
+
+
+
+
+
